@@ -70,5 +70,3 @@ UserOperationClaim.Read
 - *5th Week Refactoring done."*
   <br>
 
-## :pencil2:Authors
-* **Saltuk Alp Karabacak** - [Saltukalpkarabacak](https://github.com/Saltukalpkarabacak)
